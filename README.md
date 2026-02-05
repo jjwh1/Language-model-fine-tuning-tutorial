@@ -11,7 +11,8 @@ LLM finetuning 및 RAG 연습을 위한 colab 기반 실습 자료입니다.
   
   파이프라인은 다음과 같습니다.
 
-<img width="303" height="245" alt="image" src="https://github.com/user-attachments/assets/61140517-419a-40e3-a73d-bc5dc60be191" />
+<img width="403" height="492" alt="image" src="https://github.com/user-attachments/assets/51673d82-6067-4d17-a7f4-fd74e301db1f" />
+
 
 
 - 실시간 RAG 벡터DB 업데이트 실습
