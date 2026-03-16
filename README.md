@@ -1,7 +1,7 @@
 # Language model fine tuning tutorial
 
 LLM finetuning 및 RAG 연습을 위한 colab 기반 실습 자료입니다.
-(By happy ai)
+(By happy ai: https://www.youtube.com/@HappyAI_0612/featured)
 ## 구성
 1. 감성분류 모델 DistillBERT finetuning 실습
 
